@@ -1,0 +1,5 @@
+{
+  "message.controllable_rockets.welding_times": "焊接时间%.1f秒",
+  "message.controllable_rockets.welding_success": "焊接已成功",
+  "message.controllable_rockets.cannot_stop_riding": "舱门已被焊死！"
+}
